@@ -56,12 +56,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true&custom_title=Past%20Year%20Stats" alt="Ardian's Past Year Stats" height="195" />
-      </td>
-    </tr>
+         <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true&custom_title=Past%20Year%20Stats" alt="Ardian's Past Year Stats" height="195" />
   </table>
 </div>
 
