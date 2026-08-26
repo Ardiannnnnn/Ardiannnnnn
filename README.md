@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Ardian!</h1>
   <p>
-    🚀 <b>Front-End Developer (Next.js)</b> | 💻 <b>Full-Stack Developer (Laravel & PHP)</b> | 📱 <b>Mobile Development (Expo Go & React Native)</b>
+    🚀 <b>Front-End Developer (Next.js)</b> | 💻 <b>Full-Stack Developer (Laravel & PHP)</b> | 📱 <b>Mobile Dev (React Native, Expo & EAS)</b>
   </p>
   <p>
     <i>Passionate about crafting clean, performant, and user-friendly web and mobile applications.</i>
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Expo_Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" />
+  <img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="EAS" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 3" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -44,7 +45,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figman&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Desktop" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Termius-18181B?style=for-the-badge&logo=termius&logoColor=white" alt="Termius" />
