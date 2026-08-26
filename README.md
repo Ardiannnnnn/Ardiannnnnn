@@ -6,8 +6,8 @@ I'm a **Front-End Developer & Next.js Enthusiast** passionate about building cle
 
 ## 🛠️ Skills
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, Dart  
-- **Frameworks:** React, Next.js, Tailwind CSS, Flutter  
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks:** React, Next.js, Tailwind CSS  
 - **Tools:** Git, VSCode, pnpm, Figma  
 
 ---
