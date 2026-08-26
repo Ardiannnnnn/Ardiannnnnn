@@ -56,7 +56,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true" alt="Ardian's GitHub stats" />
+  <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ardian's GitHub stats" />
 </div>
 
 ---
