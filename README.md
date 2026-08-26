@@ -34,6 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo_Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" />
   <img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="EAS" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -41,14 +42,23 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
+**Databases**  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
+
 **Tools & Platforms**  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Desktop" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/TablePlus-24292E?style=for-the-badge&logo=tableplus&logoColor=white" alt="TablePlus" />
+  <img src="https://img.shields.io/badge/HeidiSQL-4E708E?style=for-the-badge&logo=mariadb&logoColor=white" alt="HeidiSQL" />
   <img src="https://img.shields.io/badge/Termius-18181B?style=for-the-badge&logo=termius&logoColor=white" alt="Termius" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
 ---
@@ -56,8 +66,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-         <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true&custom_title=Past%20Year%20Stats" alt="Ardian's Past Year Stats" height="195" />
-  </table>
+  <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true&custom_title=Past%20Year%20Stats" alt="Ardian's Past Year Stats" height="195" />
 </div>
 
 ---
