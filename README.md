@@ -56,8 +56,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true&custom_title=Past%20Year%20Stats" alt="Ardian's Past Year Stats" />
-  <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true&custom_title=All-Time%20Stats" alt="Ardian's All Time Stats" />
+  <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true" alt="Ardian's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ardiannnnnn&theme=radical" alt="Ardian's Streak & Total Contributions" />
 </div>
 
 ---
