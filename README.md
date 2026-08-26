@@ -54,10 +54,9 @@
 ---
 
 ### 📈 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats-six-puce-52.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical&count_private=true" alt="Ardian's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Ardiannnnnn&theme=radical" alt="Ardian's Streak & Total Contributions" />
+  <img src="https://github-readme-stats-six-puce-52.vercel.app/api/top-langs/?username=Ardiannnnnn&layout=compact&theme=radical&count_private=true" alt="Ardian's Top Languages" />
 </div>
 
 ---
