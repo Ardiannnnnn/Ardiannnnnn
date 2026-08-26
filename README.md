@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Ardian!</h1>
   <p>
-    🚀 <b>Front-End Developer & Next.js Enthusiast</b> | 💻 <b>Full-Stack PHP Developer</b>
+    🚀 <b>Front-End Developer (Next.js)</b> | 💻 <b>Full-Stack Developer (Laravel & PHP)</b>
   </p>
   <p>
     <i>Passionate about crafting clean, performant, and user-friendly web applications.</i>
