@@ -23,7 +23,7 @@ I'm a **Front-End Developer & Next.js Enthusiast** passionate about building cle
 
 ## 📈 GitHub Stats
 
-![Ardian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardiannnnn&show_icons=true&theme=radical)
+![Ardian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardiannnnnn&show_icons=true&theme=radical)
 ---
 
 ## 📫 Contact Me
